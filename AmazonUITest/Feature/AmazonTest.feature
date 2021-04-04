@@ -11,7 +11,7 @@ Background:
 	* Devam et butonuna tıklanır. 
 	* Şifre 'password' olarak girilir.
 	* Giriş yap butonuna tıklanır 
-Scenario:  ProductControlandAddtoBasket
+Scenario: 
 	* Arama yerine 'bilgisayar' yazılır.
 	* Arama yap butonuna tıklanır.
 	* Ürün görselleri kontrol edilir.
